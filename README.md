@@ -10,6 +10,6 @@ I was first introduced to python and later on expanded my knowledge into Fullsta
 
 ---
 
-Here's a video of a project that me and a friend collaborated on to develop:
+Here's a video of a project that me and a friend collaborated on:
 [Trucklink VTC](https://youtu.be/6Zg-vIvuXaU?si=QHlcMpkWJYmTPADf)
 
