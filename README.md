@@ -1,6 +1,6 @@
-### Hey, im el.
+### Hey, im Liam.
 
-**You can check out all of my latest work here 👉 [Github pages](https://elleclipse.github.io/)**
+**You can check out all of my latest work here 👉 [Github pages](https://LiamBurt.github.io/)**
 
 ---
 
